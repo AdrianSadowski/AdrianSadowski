@@ -1,5 +1,5 @@
 #### - 👋 Hi, I’m @AdrianSadowski
-#### - 👀 I’m interested in programin and cooking :)
+#### - 👀 I’m interested in programing, cooking and dogs :)
 #### - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.Js, Express
 #### - 💞️ I’m looking to collaborate on FrontEnd or FullStack
 #### - 📫 How to reach me e-mail: sadow.adrian@gmail.com or phone +48570911444
