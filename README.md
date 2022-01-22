@@ -16,4 +16,4 @@
 
 [Messenger WebSocket](https://github.com/AdrianSadowski/messenger_web_socket) Stack: HTML, CSS, JS, Express, 
 
-[New Wave Festival App](https://github.com/AdrianSadowski/express_server_api) FullStack app connectec with mongoseDB. Stack: HTML, CSS, JS, REACT, NODE.JS, Express, mongoose, socket.io
+[New Wave Festival App](https://github.com/AdrianSadowski/express_server_api) FullStack app connected with mongoseDB. Stack: HTML, CSS, JS, REACT, NODE.JS, Express, mongoose, socket.io
