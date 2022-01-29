@@ -12,7 +12,7 @@
 
 [Team project](https://github.com/AdrianSadowski/TeamProject) 7 intern from kodilla. Stack: HTML, CSS, JS, REACT, REDUX
 
-[React App](https://github.com/AdrianSadowski/React)
+[React App](https://github.com/AdrianSadowski/React) ToDo List 
 
 [Messenger WebSocket](https://github.com/AdrianSadowski/messenger_web_socket) Stack: HTML, CSS, JS, Express, 
 
