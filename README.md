@@ -10,14 +10,14 @@
 
 [PROSPECT HOUSE - COMERCIAL](http://prospecthouse-staging.odev.pl/) Stack: React, SASS [LIVE](http://prospecthouse-staging.odev.pl/) [GITHUB](https://github.com/AdrianSadowski/React-ph_react_page)
 
-[Coffe Shop](https://github.com/AdrianSadowski/solo) Stack: HTML, CSS, JS [LIVE](https://coffe-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/solo)
+[Coffe Shop](https://coffe-adrian-sadowski.herokuapp.com/) Stack: HTML, CSS, JS [LIVE](https://coffe-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/solo)
 
 [Team project](https://github.com/AdrianSadowski/TeamProject) 7 intern from kodilla. Stack: HTML, CSS, JS, REACT, REDUX [GITHUB](https://github.com/AdrianSadowski/solo)
 
-[React App](https://github.com/AdrianSadowski/React) ToDo List  [LIVE](https://react-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/React)
+[React App](https://react-adrian-sadowski.herokuapp.com/) ToDo List  [LIVE](https://react-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/React)
 
-[Messenger WebSocket](https://github.com/AdrianSadowski/messenger_web_socket) Stack: HTML, CSS, JS, Express,  [LIVE](https://coffe-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/solo)
+[Messenger WebSocket](https://coffe-adrian-sadowski.herokuapp.com/) Stack: HTML, CSS, JS, Express,  [LIVE](https://coffe-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/solo)
 
-[New Wave Festival App](https://github.com/AdrianSadowski/express_server_api) FullStack app connected with mongoseDB. Stack: HTML, CSS, JS, REACT, NODE.JS, Express, mongoose, socket.io [LIVE](https://server-app-adriansadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/express_server_api)
+[New Wave Festival App](https://server-app-adriansadowski.herokuapp.com/) FullStack app connected with mongoseDB. Stack: HTML, CSS, JS, REACT, NODE.JS, Express, mongoose, socket.io [LIVE](https://server-app-adriansadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/express_server_api)
 
-[Pizzeria](https://github.com/AdrianSadowski/project-pizzeria) Stack: HTML, SASS, JS, OOP, AJAX [LIVE](https://project-pizzeria-sadodev.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/project-pizzeria)
+[Pizzeria](https://project-pizzeria-sadodev.herokuapp.com/) Stack: HTML, SASS, JS, OOP, AJAX [LIVE](https://project-pizzeria-sadodev.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/project-pizzeria)
