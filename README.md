@@ -8,7 +8,7 @@
 
 # Check my projects: 
 
-[PROSPECT HOUSE - COMERCIAL](http://prospecthouse-staging.odev.pl/) Stack: React, SASS [LIVE](http://prospecthouse-staging.odev.pl/) [GITHUB](https://github.com/AdrianSadowski/React-ph_react_page)
+[PROSPECT HOUSE - COMERCIAL](http://prospecthouse-staging.odev.pl/) Stack: React, SASS [LIVE(CLICK)](http://prospecthouse-staging.odev.pl/) [GITHUB(CLICK)](https://github.com/AdrianSadowski/React-ph_react_page)
 
 [Coffe Shop](https://coffe-adrian-sadowski.herokuapp.com/) Stack: HTML, CSS, JS [LIVE](https://coffe-adrian-sadowski.herokuapp.com/) [GITHUB](https://github.com/AdrianSadowski/solo)
 
