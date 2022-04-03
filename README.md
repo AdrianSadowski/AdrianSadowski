@@ -5,7 +5,7 @@
 #### - Linkedin: [Adrian Sadowski](https://www.linkedin.com/in/adrian-sadowski/)
 
 # My TECH Stack
-  ##### :heavy_check_mark: JavaScript, React, Node.js, API, HTML & SCSS, GIT, JEST, JIRA / TRELLO, EXPRESS, MONGOOSE
+  ##### :heavy_check_mark: JavaScript, React, Redux, Node.js, API, HTML & SCSS, GIT, JEST, JIRA / TRELLO, EXPRESS, MONGOOSE
 
 
 # Check my projects: 
