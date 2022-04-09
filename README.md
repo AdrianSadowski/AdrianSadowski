@@ -1,6 +1,6 @@
 #### - 👋 Hi, I’m @AdrianSadowski
 #### - 👀 I’m interested in programing, cooking and dogs :)
-#### - 💞️ I’m looking to collaborate on FrontEnd or FullStack
+#### - 💞️ I’m looking to collaborate on FrontEnd, FullStack or Backend node.js Developer.
 #### - 📫 How to reach me e-mail: sadow.adrian@gmail.com or phone +48570911444
 #### - Linkedin: [Adrian Sadowski](https://www.linkedin.com/in/adrian-sadowski/)
 
