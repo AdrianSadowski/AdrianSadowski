@@ -1,5 +1,5 @@
 #### - 👋 Hi, I’m @AdrianSadowski
-#### - 👀 I’m interested in programing, cooking and dogs :)
+#### - 👀 I’m interested in programing, DIY(do it yourself), cooking and dogs(already i have 2 dogs. Cocker Spaniel and German Spaniel) :)
 #### - 💞️ I’m looking to collaborate on FrontEnd, FullStack or Backend node.js Developer.
 #### - 📫 How to reach me e-mail: sadow.adrian@gmail.com or phone +48570911444
 #### - Linkedin: [Adrian Sadowski](https://www.linkedin.com/in/adrian-sadowski/)
